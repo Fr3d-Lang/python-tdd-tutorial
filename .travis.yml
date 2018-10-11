@@ -4,4 +4,4 @@ python :
 - 3.6
 
 script:
-- python test_tennis.py test_random.py
+- python test_tennis.py 
